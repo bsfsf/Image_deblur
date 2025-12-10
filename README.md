@@ -1,4 +1,4 @@
-<img width="340" height="233" alt="image20_神州8号对接_Deblurred" src="https://github.com/user-attachments/assets/80fc9e53-1361-4006-98cf-11815f8e0051" />
+
 # Enhanced Space-Variant Deblurring of Spacecraft Images via Detail-Preserving Techniques
 
 During spacecraft launch, flight, and docking, ground-based and space-based imaging systems play
@@ -42,8 +42,7 @@ After processing is completed, a dialog will pop up again → Click Yes to gener
 
 | Input (blurred) | Output (our result)  |
 |--------------|----------------|
-| ![blur](examples/image_21神州对接图像.bmp) | ![out](exam[Uploading image_21神州对接图像.bmp…]()
-ples/image_21神州对接图像_Deblurred.png) |
+| ![blur](examples/image_21神州对接图像.bmp) | ![out](examples/image_21神州对接图像_Deblurred.png) |
 | ![blur](examples/image19_神州11号.bmp) | ![out](examples/image19_神州11号_Deblurred.png) |
 | ![blur](examples/image20_神州8号对接.bmp) | ![out](examples/image20_神州8号对接_Deblurred.png) |
 
