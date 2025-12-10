@@ -40,8 +40,8 @@ After processing is completed, a dialog will pop up again → Click Yes to gener
 
 ## Screenshots
 
-| Input (blurred) | Output (our result)  |
-|--------------|----------------|
+| Input | Output |
+|-------|--------|
 | <img src="examples/image19.png" width="260"> | <img src="examples/image19_deblurred.png" width="260"> |
 | ![blur](examples/image_21神州对接图像.bmp) | ![out](examples/image_21神州对接图像_Deblurred.png) |
 | ![blur](examples/image19_神州11号.bmp) | ![out](examples/image19_神州11号_Deblurred.png) |
