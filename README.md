@@ -78,9 +78,11 @@ Citation:
 ## Citation
 If you use this code or the dataset in your research, please cite our paper:
 ```bash
- @article{hong2025enhanced,
-  title={Enhanced Space-Variant Deblurring of Spacecraft Images via Detail-Preserving Techniques},
-  author={Hong, Hanyu and Guo, Shuai and Liu, Zhiwen and others},
-  year={2025}
+ @article{hong2026enhanced,
+  title={Enhanced space-variant deblurring of spacecraft images via detail-preserving techniques},
+  author={Hong, Hanyu and Guo, Shuai and Liu, Zhiwen and Sang, Nong and Wang, Hanyu and Tian, Dapeng and Ye, Liang},
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
